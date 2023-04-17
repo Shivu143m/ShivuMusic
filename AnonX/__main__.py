@@ -53,7 +53,7 @@ async def init():
     await Anon.start()
     try:
         await Anon.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://te.legra.ph/file/29df55930fcfe7d5fc242.jpg"
         )
     except NoActiveGroupCall:
         LOGGER("AnonX").error(
