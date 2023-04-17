@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 SHIVU X MUSIC  」──
 </h2>
 
 <p align="center">
